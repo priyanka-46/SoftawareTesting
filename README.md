@@ -1,2 +1,2 @@
-# SoftawareTesting
+# SoftwareTesting
 Testing
